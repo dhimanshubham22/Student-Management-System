@@ -18,7 +18,8 @@ Student Management System
 
 <img width="536" alt="image" src="https://github.com/dhimanshubham22/Student-Management-System/assets/128880084/09a50fea-1683-40f7-afee-7a8a671e2e88">
 
-<img width="474" alt="image" src="https://github.com/dhimanshubham22/Student-Management-System/assets/128880084/c16c5623-fe47-4b64-b68a-65d4f99070b2">
+ <img width="455" alt="image" src="https://github.com/dhimanshubham22/Student-Management-System/assets/128880084/6030627c-e295-4f66-ab1f-18abce95e28d">
+
 
 
 
